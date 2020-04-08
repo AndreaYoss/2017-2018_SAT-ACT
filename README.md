@@ -1,7 +1,7 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Testing, Statistical Summaries and Inference
+# SAT & ACT Analysis
 
 
-##### Author: Andrea Yoss: [LinkedIn](https://www.linkedin.com/in/andreayoss
+##### Author: Andrea Yoss: [LinkedIn](https://www.linkedin.com/in/andreayoss)
 
 
 ## Table of Contents
@@ -18,7 +18,7 @@
 
 In recent years, more and more students are taking the ACT exam over the SAT exam. The ACT has even partnered with States in the US to encorporate the test into each State's High School curriculum.  Unfortunately, these States that have incorporated the ACT test in their curriculum participation rates are actually seeing some of the worst average Composite scores in the United States of America.  
   
-In this Project, I am setting out to understand why States that prepare their students for this exam exclusively, appear to doing worse than states that do not offer such support, with all their statewide Composite averages ranked in the bottom half of the country.  
+In this project, I set out to understand why states that prepare their students for the ACT exam exclusively, appear to doing worse than states that do not offer such support, with all their statewide Composite averages ranked in the bottom half of the country.  
 
 
 
@@ -120,17 +120,17 @@ Through exploratory data analysis, I recognized some important relationships:
 
 
 
+## Analysis
+
+Both the SAT and ACT exams have a negative relationship between their participation rates and their total scores.  When there are less students taking an the exam, and students have the choice whether or not to take it, there is a selection bias, as the students who take the exam will therefore do better than when the participation rate is greater, and more students who do not choose and may not be ready for the exam take it and get lower scores. Based on my exploration of the data, it seems that this is why 17 states with 100% participation in the ACT in 2018 fell below the mean, not the curriculum or state.
+
 ## Conclusion
-Both the SAT and ACT exams have a negative relationship between their participation rates and their total scores, which is likely do to the fact that when there are less students taking the exam, the is a selection bias and the students who take the exam choose to take it and will therefore do better than when the participation rate is greater, and more students who do not choose and may not be ready for the exam take it and get lowet scores. This is why 
-17 states with 100% participation in the ACT in 2018 fell below the mean, not the curriculum or state.
-
-
 
 ---
 
 ## Data Sources
 
-- [Top 10 Things to Look for When You Are House Hunting](https://www.thespruce.com/things-to-look-for-house-hunting-1977279)
+
 - 
 
 
