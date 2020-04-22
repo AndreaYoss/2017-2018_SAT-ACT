@@ -53,19 +53,17 @@ However, we noticed that this trend did not hold in a few instances.  For exampl
 ### Total/ Composite Scores
 Both the SAT and ACT exams have a negative relationship between their participation rates and their total/ composite scores, with correlations of -0.87 and -0.86, respectively.  This is primarily due to **selection bias**. When the exam is not required for students in a particular state, and students have the choice whether or not to take it, students will likely only choose to take the exam if they feel they can do well on it (at least compared to the other exam).  Since the only students who end up taking non-required exams are the students who choose to take it, these states will have higher total/ composite scores, while having lower participation rates (compared to states where the exam is mandatory, i.e., 100% participation). 
 
-#### Figure 1: 2018 ACT Participation vs. Composite Scores
+Take Illinois and Colorado, for example. When the SAT Exam became required in 2018, average total SAT scores *decreased* from 2017 to 2018, by approximately 15% in Colorado and 9% in Illinois, while at the same time, average composite ACT scores *increased* from 2017 to 2018, by approximately 15% in Colorado and 12% in Illinois.
+
+The figures below (produced in tableau) show heatmaps of the United States, with the states displaying a color ranging from light blue to dark blue, corresponding to increasing participation rates.  The composite and total scores are shown in plain text for each state.
 
 ![Figure 1: 2018 ACT Participation vs. Composite Scores](https://github.com/AndreaYoss/2017-2018_SAT-ACT/blob/master/Images/2018_ACT.png)
 
 
-<img src="../Images/2018_ACT.png"  width="1000" height="350">
+![Figure 2: 2018 SAT Participation vs. Composite Scores](https://github.com/AndreaYoss/2017-2018_SAT-ACT/blob/master/Images/2018_SAT.png)
 
+From both Figure 1 (ACT) and Figure 2 (SAT), we see that the higher the participation rate for a test in a state (ie, the darker the blue), the lower the average scores for that exam. Additionally, we can see that if a state is shaded dark blue in one of the figures, it is shaded in light blue in the other. This illustrates the negative relationship between the participation rates for the SAT and the ACT.  
 
-#### Figure 2: 2018 SAT Participation vs. Total Scores
-<img src="../Images/2018_SAT.png">
-
-
-Take Illinois and Colorado, for example. When the SAT Exam became required in 2018, average total SAT scores *decreased* from 2017 to 2018, by approximately 15% in Colorado and 9% in Illinois, while at the same time, average composite ACT scores *increased* from 2017 to 2018, by approximately 15% in Colorado and 12% in Illinois.
 
 
 ---
