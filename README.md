@@ -62,7 +62,7 @@ Both the SAT and ACT exams have a negative relationship between their participat
 
 
 #### Figure 2: 2018 SAT Participation vs. Total Scores
-<img src="../Images/2018_SAT.png"  width="1000" height="350">
+<img src="../Images/2018_SAT.png">
 
 
 Take Illinois and Colorado, for example. When the SAT Exam became required in 2018, average total SAT scores *decreased* from 2017 to 2018, by approximately 15% in Colorado and 9% in Illinois, while at the same time, average composite ACT scores *increased* from 2017 to 2018, by approximately 15% in Colorado and 12% in Illinois.
