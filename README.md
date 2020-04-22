@@ -54,6 +54,10 @@ However, we noticed that this trend did not hold in a few instances.  For exampl
 Both the SAT and ACT exams have a negative relationship between their participation rates and their total/ composite scores, with correlations of -0.87 and -0.86, respectively.  This is primarily due to **selection bias**. When the exam is not required for students in a particular state, and students have the choice whether or not to take it, students will likely only choose to take the exam if they feel they can do well on it (at least compared to the other exam).  Since the only students who end up taking non-required exams are the students who choose to take it, these states will have higher total/ composite scores, while having lower participation rates (compared to states where the exam is mandatory, i.e., 100% participation). 
 
 #### Figure 1: 2018 ACT Participation vs. Composite Scores
+
+[![Figure 1: 2018 ACT Participation vs. Composite Scores](../Images/2018_ACT.png)]
+
+
 <img src="../Images/2018_ACT.png"  width="1000" height="350">
 
 
