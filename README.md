@@ -55,7 +55,7 @@ Both the SAT and ACT exams have a negative relationship between their participat
 
 #### Figure 1: 2018 ACT Participation vs. Composite Scores
 
-[![Figure 1: 2018 ACT Participation vs. Composite Scores](../Images/2018_ACT.png)]
+![Figure 1: 2018 ACT Participation vs. Composite Scores](../Images/2018_ACT.png)
 
 
 <img src="../Images/2018_ACT.png"  width="1000" height="350">
