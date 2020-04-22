@@ -57,10 +57,12 @@ Take Illinois and Colorado, for example. When the SAT Exam became required in 20
 
 The figures below (produced in tableau) show heatmaps of the United States, with the states displaying a color ranging from light blue to dark blue, corresponding to increasing participation rates.  The composite and total scores are shown in plain text for each state.
 
+
+#### Figure 1: 2018 ACT Participation Rates vs. Composite Scores
 ![Figure 1: 2018 ACT Participation vs. Composite Scores](https://github.com/AndreaYoss/2017-2018_SAT-ACT/blob/master/Images/2018_ACT.png)
 
-
-![Figure 2: 2018 SAT Participation vs. Composite Scores](https://github.com/AndreaYoss/2017-2018_SAT-ACT/blob/master/Images/2018_SAT.png)
+#### Figure 2: 2018 SAT Participation Rates vs. Total Scores
+![Figure 2: 2018 SAT Participation vs. Total Scores](https://github.com/AndreaYoss/2017-2018_SAT-ACT/blob/master/Images/2018_SAT.png)
 
 From both Figure 1 (ACT) and Figure 2 (SAT), we see that the higher the participation rate for a test in a state (ie, the darker the blue), the lower the average scores for that exam. Additionally, we can see that if a state is shaded dark blue in one of the figures, it is shaded in light blue in the other. This illustrates the negative relationship between the participation rates for the SAT and the ACT.  
 
